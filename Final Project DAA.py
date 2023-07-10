@@ -1,6 +1,3 @@
-##wow
-
-
 import os
 from getpass4 import getpass
 
